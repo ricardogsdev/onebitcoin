@@ -76,7 +76,6 @@ export default function App() {
 
   },[updateData]);
 
-
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar
