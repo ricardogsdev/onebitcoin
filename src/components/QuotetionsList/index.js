@@ -6,6 +6,7 @@ import styles from './styles';
 export default function QuotetionsList(props) {
   const daysQuery = props.filterDay
 
+  
   return (
     <Fragment>
       <View style={styles.filters} >

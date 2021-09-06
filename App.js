@@ -12,7 +12,6 @@ function addZero(number){
   return number
 }
 
-
 function url(qtdDays){
   const date = new Date();
   const listLastDays = qtdDays;
